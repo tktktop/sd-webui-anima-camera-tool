@@ -26,19 +26,19 @@ WebUI 悬浮窗显示
 彻底规避跨域报错、404 以及与其他大型插件（如 prompt-all-in-one）的 DOM 冲突。
 
 安装与运行 (WebUI 插件版)：
-文件结构要求：
-extensions/sd-webui-anima-camera-tool/
-├── scripts/
-│ └── main.py (后台接口)
-├── javascript/
-│ └── injector.js (悬浮窗逻辑)
-└── html/
-├── camera-tool.html (核心 UI)
-├── tags.txt (标签配置)
-└── img.png (可选，默认纸片人)
-
-安装后重启 WebUI，在页面右下角会生成一个橙色悬浮按钮，点击即可弹窗使用。
-
+文件结构要求：</br>
+extensions/sd-webui-anima-camera-tool/</br>
+├── scripts/</br>
+│ └── main.py (后台接口)</br>
+├── javascript/</br>
+│ └── injector.js (悬浮窗逻辑)</br>
+└── html/</br>
+├── camera-tool.html (核心 UI)</br>
+├── tags.txt (标签配置)</br>
+└── img.png (可选，默认纸片人)</br>
+</br>
+安装后重启 WebUI，在页面右下角会生成一个橙色悬浮按钮，点击即可弹窗使用。</br>
+</br>
 tags.txt 格式示例：
 front: from front
 back: from behind
