@@ -1,0 +1,14 @@
+front: from front
+back: from behind
+left: facing right
+right: facing left
+high: high angle
+eye: eye-level
+low: low angle
+ecu: extreme close-up
+cu: close-up
+medium: medium shot
+cowboy: cowboy shot
+full: full body
+wide: wide shot
+dutch: dutch angle
